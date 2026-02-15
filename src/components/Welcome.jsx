@@ -20,8 +20,10 @@ const WelcomePage = () => {
 
     return (
         <div className="min-h-screen bg-gray-50 flex items-center justify-center p-4">
+           
+           
             <motion.div
-                className="text-center"
+                className="text-center mt-25"
                 variants={containerVariants}
                 initial="hidden"
                 animate="visible"
