@@ -9,7 +9,7 @@ import Addstudent from "./components/Addstudent";
 import View from "./components/View";
 import Massage from "./components/Massage";
 import Forgotpass from "./components/Forgotpass";
-import WelcomePage from './components/welcome';
+import WelcomePage from './components/Welcome';
 import SendSMS from "./components/SendSMS"
 function App() {
 
